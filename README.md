@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius Tonello 👋
 
-I'm a Full Stack Software Engineer from Brazil focused on building scalable, maintainable, and high-performance web solutions. I'm available for freelance projects involving API development, system integration, performance optimization, and cloud-based applications.
+I'm a Full Stack Software Engineer focused on building scalable, maintainable, and high-performance web solutions. I'm available for freelance projects involving API development, system integration, performance optimization, and cloud-based applications.
 
 ## 💼 What I can help with
 
@@ -28,20 +28,6 @@ I'm a Full Stack Software Engineer from Brazil focused on building scalable, mai
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes (GKE)
 
 **Other tools:** Git, Linux, REST APIs, Clean Architecture
-
-## 🤝 Freelance availability
-
-I'm currently available for freelance work and open to collaborating with companies, startups, and individuals on software development projects.
-
-I can help with:
-- Building new backend systems
-- Improving existing applications
-- API integrations
-- Performance optimization
-- Bug fixing
-- Code review
-- Database improvements
-- Cloud deployment and infrastructure support
 
 ## 📫 Contact
 
