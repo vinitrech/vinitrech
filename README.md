@@ -1,18 +1,19 @@
 # Hi, I'm Vinicius Tonello 👋
 
-I'm a Software Engineer from Brazil focused on building scalable, maintainable, and high-performance backend solutions. I'm available for freelance projects involving API development, system integration, performance optimization, and cloud-based applications.
+I'm a Full Stack Software Engineer from Brazil focused on building scalable, maintainable, and high-performance web solutions. I'm available for freelance projects involving API development, system integration, performance optimization, and cloud-based applications.
 
 ## 💼 What I can help with
 
 - Backend development with **C# and .NET**
 - REST API design and implementation
 - ASP.NET Core applications
-- Database modeling and optimization with **SQL Server**
+- React applications
+- Database modeling and optimization with **SQL Server/MySQL/MongoDB**
 - Entity Framework Core
 - Cloud solutions with **Google Cloud Platform (GCP)**
+- Google Pub/Sub | Redis Pub/Sub for **async processing/events**
 - Docker and containerized applications
 - Redis caching and performance improvements
-- Google Pub/Sub | Redis Pub/Sub for async processing
 - Integration of third-party APIs and services
 - Bug fixing, refactoring, and code review
 
@@ -20,15 +21,13 @@ I'm a Software Engineer from Brazil focused on building scalable, maintainable, 
 
 **Backend:** C#, .NET 8/9/10, ASP.NET Core, Entity Framework Core
 
-**Databases:** SQL Server, MongoDB, Redis
+**Databases:** SQL Server, MySQL, MongoDB, Redis
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS
 
 **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes (GKE)
 
-**Other tools:** Git, DBeaver, Linux, REST APIs, Clean Architecture
-
-## 📂 Featured work
-
-You can explore my repositories to see examples of backend applications, APIs, integrations, and performance-oriented solutions.
+**Other tools:** Git, Linux, REST APIs, Clean Architecture
 
 ## 🤝 Freelance availability
 
@@ -39,6 +38,8 @@ I can help with:
 - Improving existing applications
 - API integrations
 - Performance optimization
+- Bug fixing
+- Code review
 - Database improvements
 - Cloud deployment and infrastructure support
 
